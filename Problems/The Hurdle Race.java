@@ -1,5 +1,7 @@
 //Problem Description
-//https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true
+/**
+ * <a href="https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true">The Hurdle Race Problem</a>
+ */
 
 import java.io.*;
 import java.math.*;
